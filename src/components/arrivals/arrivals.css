@@ -1,0 +1,15 @@
+.arrivals {
+    padding-top: 90px;
+    padding-bottom: 120px;
+}
+
+.arrivals_header {
+    margin-bottom: 100px;
+
+}
+
+.arrivals_cards {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 30px;
+}

@@ -1,0 +1,59 @@
+.socialBlock {
+    background-color: #000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 400px;
+}
+
+.titleFashion {
+    color: #fff;
+    display: inline-block;
+    position: relative;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 1.04;
+    letter-spacing: 0.06em;
+
+
+}
+
+.socialTitle {
+    margin-left: 50px;
+}
+
+p {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: #fff;
+    display: inline-block;
+    position: relative;
+    font-weight: 100;
+    font-size: 48px;
+    line-height: 1.04;
+    letter-spacing: 0.06em;
+}
+
+.socials {
+    margin: 10px;
+}
+
+.linksList {
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+}
+
+tr {
+
+    justify-content: space-between;
+    flex-direction: column;
+    margin: 20px;
+
+}
+
+td, th {
+
+    text-align: left;
+    padding: 8px 30px 8px 20px
+}

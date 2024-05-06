@@ -1,0 +1,22 @@
+.favorite {
+    padding-top: 30px;
+    padding-bottom: 70px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.fav_header {
+    max-width: 1780px;
+    margin: 0 auto;
+    padding: 0 30px;
+    padding-bottom: 40px;
+
+
+
+}
+
+.fav_cards {
+    display: flex;
+    justify-content: center;
+    column-gap: 30px;
+}
